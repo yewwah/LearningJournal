@@ -3,7 +3,7 @@
 Title of Chapt 
 ## Date : 9 - 15 Jan 22
 
-**Summary**
+**Summary**  
 Learning about bayes theorem 
 - Directed Acyclic graphs -> Bayesian Network 
   - A node is independent of other non-descendants given its parents 
